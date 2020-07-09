@@ -1,0 +1,8 @@
+﻿  ChayBo.cpp
+  ThongThuong.cpp
+  TuThien.cpp
+  main.cpp
+F:\THIoop\DeThiOOP\DeThiOOP\main.cpp(69,12): warning C4154: deletion of an array expression; conversion to pointer supplied
+  trail.cpp
+  Generating Code...
+  DeThiOOP.vcxproj -> F:\THIoop\DeThiOOP\Debug\DeThiOOP.exe
